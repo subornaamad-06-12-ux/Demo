@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#CA3737</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_ash">#6A6C6D</color>
+    <color name="dark_blue">#212121</color>
+    <color name="under_weight">#FF0000</color>
+    <color name="normal">#00FF00</color>
+    <color name="over_weight">#FFFF00</color>
+    <color name="obese">#AD3DAD</color>
+
+
+</resources>
